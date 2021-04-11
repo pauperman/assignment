@@ -1,0 +1,7 @@
+spring:
+  banner:
+    location: logo.txt
+  datasource:
+    url: jdbc:mysql://localhost:3306/world
+    username: root
+    password:
